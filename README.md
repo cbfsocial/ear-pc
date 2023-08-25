@@ -13,6 +13,8 @@ This Github repo only includes the frontend part for everyone to contribute. The
 3. Run the installer and let it download all the components (the installer will allow you to update the app later)
 4. Launch the app and enjoy!
 
+The default installation path is: C:\Users\YourUser\AppData\Local\Programs\ear-pc
+
 If you want to contribute, we recommend cloning the repo using
 ```git clone https://github.com/radiance-project/ear-pc.git```
 
